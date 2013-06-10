@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: c01e7b6811acacd4687b2130e74f333d
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - lifeBarBackground: {fileID: 2800000, guid: 5d24fd66f0b5aa4479ff84245663f00a, type: 3}
+  - lifeBar: {fileID: 2800000, guid: d22a237954aa0e9448e7126fcc0d12ce, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

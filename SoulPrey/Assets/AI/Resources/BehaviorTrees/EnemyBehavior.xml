@@ -1,0 +1,1 @@
+<behaviortree name="EnemyBehavior" precondition="" repeatuntil="" debug="False"><sequencer name="root" precondition="" repeatuntil="" debug="False"><detect name="detect player" precondition="" repeatuntil="" debug="False" sensor="Sensor" aspect="player" variable="atkTarget" /></sequencer></behaviortree>
