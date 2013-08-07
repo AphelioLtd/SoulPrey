@@ -15,6 +15,18 @@ public class PlayerControl : MonoBehaviour {
     // Update is called once per frame
     void Update()
     {
+        TestWASDMovement();
+
+    }
+
+    void OnMouseDown()
+    {
+
+    }
+
+
+    private void TestWASDMovement()
+    {
         if (Input.GetKey(KeyCode.W))
             transform.Translate(Vector3.forward * movementSpeed * Time.deltaTime);
 
